@@ -5,4 +5,3 @@ if __name__ == "__main__":
 
     build_dict_py()
     build_dict_cy()
-    print()
